@@ -1,0 +1,43 @@
+p{
+    font-family: Arial;
+    margin-top: 0;
+}
+.text-style{
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 5px;
+}
+.views-text{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.channel-name{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 20px;
+}
+.video-description{
+    font-size: 14px;
+    width: 300px;
+    line-height: 20px;
+    color: rgb(96, 96, 96);
+}
+.apple-text{
+    text-align: center;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+.shop-link{
+    cursor: pointer;
+}
+.shop-link:hover{
+    text-decoration: underline;
+}
